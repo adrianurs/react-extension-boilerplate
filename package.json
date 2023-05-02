@@ -1,0 +1,31 @@
+{
+  "name": "react-extension-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for chrome extensions made in react with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianurs/react-extension-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "chrome",
+    "extension"
+  ],
+  "author": "Urs Adrian Florinel",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/adrianurs/react-extension-boilerplate/issues"
+  },
+  "homepage": "https://github.com/adrianurs/react-extension-boilerplate#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
